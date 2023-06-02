@@ -114,5 +114,9 @@ header {
     filter: sepia(20%);*/ 
 }
 
+.nothing {
+    display: none; 
+}
+
 
 /*Try It Out - apply filters to another image featured on the page */ 
